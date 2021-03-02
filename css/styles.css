@@ -1,0 +1,44 @@
+.logo {
+	height: 50px;
+}
+
+.avatar {
+	height: 150px;
+}
+
+.vizprev {
+	background-color: #eee;
+	border: 1px solid #888;
+	/*height: 300px;*/
+}
+
+.imgproy {
+	height: 100px;
+	width: 100px;
+	object-fit: cover;
+}
+
+.eje {
+  font-family: 'Roboto Condensed';
+  font-size: 14px;
+}
+
+.titulo-grafica {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ejes line{
+	stroke: #cccccc;
+	stroke-width: 1px;
+}
+
+.slider {
+	width: 100%;
+}
+
+.overlay {
+	fill: none;
+ 	pointer-events: all;
+}
